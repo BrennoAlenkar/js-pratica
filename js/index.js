@@ -1,8 +1,5 @@
-var greeter = "hey hi";
-var times = 4;
+let numero = [10, 30, 3, 1, 5, 7,];
 
-if (times > 3) {
-    var greeter = "say Hello instead"; 
-}
+numero[0] = 40;
 
-console.log(greeter) // o resultado será "say Hello instead"
+console.log(numero);
