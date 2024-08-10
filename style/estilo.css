@@ -12,27 +12,3 @@ body {
 
 }
 
-.teste {
-    padding: 20px;
-    font-size: 19px;
-}
-
-label {
-    font-size: 20px;
-}
-
-input {
-    height: 30px;
-    font-size: 18px;
-}
-
-.btn {
-    height: 30px;
-    background-color: rgb(66, 190, 36);
-    border: none;
-    color: #fff;
-    width: 70px;
-    border-radius: 5px;
-    font-size: 17px;
-    cursor: pointer;
-}
