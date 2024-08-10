@@ -1,5 +1,9 @@
-let numero = [10, 30, 3, 1, 5, 7,];
+let horas = 14;
 
-numero[0] = 40;
-
-console.log(numero);
+if(horas < 11) {
+    alert('bom dia')
+} else if(horas < 6) {
+    alert('boa tarde')
+} else {
+    alert('boa noite')
+}
